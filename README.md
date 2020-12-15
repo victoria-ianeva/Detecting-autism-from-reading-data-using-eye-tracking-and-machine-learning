@@ -2,7 +2,7 @@
 
 The repository contains the following data from adult readers with and without autism: 1) gaze data from reading passages, 2) answers to reading comprehension questions, 3) the texts and questions used as stimuli, as well as any questionnaires and forms and 4) results for machine-learning classifiers aiming to detect if a person belongs to the ASD or control groups. The data was collected in three rounds corresponding to Experiments 1, 2 and 3. Additional documents include the texts used as stimuli for the experiments and the forms and questionnaires used in the study. 
 
-For additional details on the data collection see: Yaneva, V. 2016. Text and Web Accessibility for People with Autism Spectrum Disorder. PhD Thesis, University of Wolverhampton, UK.
+For additional details on the data collection see: Yaneva, V. 2017. Text and Web Accessibility for People with Autism Spectrum Disorder. PhD Thesis, University of Wolverhampton, UK.
 
 For details on the autism detection experiments see: Yaneva et. al. (title to be confirmed) (book chapter in preparation for Autism Spectrum Disorder: Diagnosis and Treatment)
 
