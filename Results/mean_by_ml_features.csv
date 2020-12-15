@@ -1,0 +1,289 @@
+AOI_setting,ml,features,acc
+Questions,logistic,"(' AOI Name', 'Answer')",0.4694444444444444
+Questions,logistic,"(' AOI Name', 'Answer', 'Difficulty_1')",0.5072222222222221
+Questions,logistic,"(' AOI Name', 'Difficulty_1')",0.551111111111111
+Questions,logistic,"(' AOI Name', 'Paragraph_Number')",0.4983333333333333
+Questions,logistic,"(' AOI Name', 'Paragraph_Number', 'Answer')",0.47888888888888886
+Questions,logistic,"(' AOI Name', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.4994444444444445
+Questions,logistic,"(' AOI Name', 'Paragraph_Number', 'Difficulty_1')",0.551111111111111
+Questions,logistic,"(' AOI Name', 'Text ID')",0.5605555555555556
+Questions,logistic,"(' AOI Name', 'Text ID', 'Answer')",0.5105555555555555
+Questions,logistic,"(' AOI Name', 'Text ID', 'Answer', 'Difficulty_1')",0.5233333333333333
+Questions,logistic,"(' AOI Name', 'Text ID', 'Difficulty_1')",0.555
+Questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number')",0.5499999999999999
+Questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer')",0.5
+Questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.5099999999999999
+Questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Difficulty_1')",0.5355555555555555
+Questions,logistic,"(' AOI Name',)",0.5244444444444444
+Questions,logistic,"('Answer', 'Difficulty_1')",0.525
+Questions,logistic,"('Answer',)",0.4955555555555556
+Questions,logistic,"('Difficulty_1',)",0.5266666666666667
+Questions,logistic,"('Paragraph_Number', 'Answer')",0.48611111111111116
+Questions,logistic,"('Paragraph_Number', 'Answer', 'Difficulty_1')",0.5177777777777778
+Questions,logistic,"('Paragraph_Number', 'Difficulty_1')",0.54
+Questions,logistic,"('Paragraph_Number',)",0.4961111111111111
+Questions,logistic,"('Text ID', 'Answer')",0.5277777777777778
+Questions,logistic,"('Text ID', 'Answer', 'Difficulty_1')",0.5322222222222223
+Questions,logistic,"('Text ID', 'Difficulty_1')",0.56
+Questions,logistic,"('Text ID', 'Paragraph_Number')",0.5327777777777777
+Questions,logistic,"('Text ID', 'Paragraph_Number', 'Answer')",0.5
+Questions,logistic,"('Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.5066666666666667
+Questions,logistic,"('Text ID', 'Paragraph_Number', 'Difficulty_1')",0.5383333333333332
+Questions,logistic,"('Text ID',)",0.5499999999999999
+Questions,logistic,(),0.5138888888888888
+Questions,randomForest,"(' AOI Name', 'Answer')",0.5405555555555556
+Questions,randomForest,"(' AOI Name', 'Answer', 'Difficulty_1')",0.5644444444444444
+Questions,randomForest,"(' AOI Name', 'Difficulty_1')",0.5561111111111111
+Questions,randomForest,"(' AOI Name', 'Paragraph_Number')",0.5344444444444445
+Questions,randomForest,"(' AOI Name', 'Paragraph_Number', 'Answer')",0.5416666666666667
+Questions,randomForest,"(' AOI Name', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.5488888888888889
+Questions,randomForest,"(' AOI Name', 'Paragraph_Number', 'Difficulty_1')",0.582777777777778
+Questions,randomForest,"(' AOI Name', 'Text ID')",0.59
+Questions,randomForest,"(' AOI Name', 'Text ID', 'Answer')",0.5522222222222223
+Questions,randomForest,"(' AOI Name', 'Text ID', 'Answer', 'Difficulty_1')",0.596111111111111
+Questions,randomForest,"(' AOI Name', 'Text ID', 'Difficulty_1')",0.5983333333333333
+Questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number')",0.5783333333333333
+Questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer')",0.561111111111111
+Questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.5822222222222222
+Questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Difficulty_1')",0.5716666666666667
+Questions,randomForest,"(' AOI Name',)",0.5427777777777777
+Questions,randomForest,"('Answer', 'Difficulty_1')",0.5611111111111111
+Questions,randomForest,"('Answer',)",0.5338888888888889
+Questions,randomForest,"('Difficulty_1',)",0.5472222222222222
+Questions,randomForest,"('Paragraph_Number', 'Answer')",0.5444444444444444
+Questions,randomForest,"('Paragraph_Number', 'Answer', 'Difficulty_1')",0.5499999999999999
+Questions,randomForest,"('Paragraph_Number', 'Difficulty_1')",0.5444444444444445
+Questions,randomForest,"('Paragraph_Number',)",0.5327777777777777
+Questions,randomForest,"('Text ID', 'Answer')",0.5455555555555556
+Questions,randomForest,"('Text ID', 'Answer', 'Difficulty_1')",0.5688888888888889
+Questions,randomForest,"('Text ID', 'Difficulty_1')",0.5694444444444445
+Questions,randomForest,"('Text ID', 'Paragraph_Number')",0.5433333333333333
+Questions,randomForest,"('Text ID', 'Paragraph_Number', 'Answer')",0.5538888888888888
+Questions,randomForest,"('Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.548888888888889
+Questions,randomForest,"('Text ID', 'Paragraph_Number', 'Difficulty_1')",0.5538888888888889
+Questions,randomForest,"('Text ID',)",0.5794444444444444
+Questions,randomForest,(),0.525
+Sentences,logistic,"(' AOI Name', 'Difficulty_1')",0.5288888888888889
+Sentences,logistic,"(' AOI Name', 'Difficulty_2')",0.5244444444444445
+Sentences,logistic,"(' AOI Name', 'Difficulty_2', 'Difficulty_1')",0.5183333333333334
+Sentences,logistic,"(' AOI Name', 'Text ID')",0.5161111111111111
+Sentences,logistic,"(' AOI Name', 'Text ID', 'Difficulty_1')",0.5188888888888888
+Sentences,logistic,"(' AOI Name', 'Text ID', 'Difficulty_2')",0.5211111111111112
+Sentences,logistic,"(' AOI Name', 'Text ID', 'Difficulty_2', 'Difficulty_1')",0.5105555555555555
+Sentences,logistic,"(' AOI Name',)",0.5322222222222223
+Sentences,logistic,"('Difficulty_1',)",0.4977777777777778
+Sentences,logistic,"('Difficulty_2', 'Difficulty_1')",0.5083333333333334
+Sentences,logistic,"('Difficulty_2',)",0.5033333333333333
+Sentences,logistic,"('Text ID', 'Difficulty_1')",0.5172222222222221
+Sentences,logistic,"('Text ID', 'Difficulty_2')",0.5066666666666667
+Sentences,logistic,"('Text ID', 'Difficulty_2', 'Difficulty_1')",0.5111111111111112
+Sentences,logistic,"('Text ID',)",0.5038888888888889
+Sentences,logistic,(),0.49833333333333335
+Sentences,randomForest,"(' AOI Name', 'Difficulty_1')",0.6455555555555554
+Sentences,randomForest,"(' AOI Name', 'Difficulty_2')",0.6155555555555555
+Sentences,randomForest,"(' AOI Name', 'Difficulty_2', 'Difficulty_1')",0.6183333333333333
+Sentences,randomForest,"(' AOI Name', 'Text ID')",0.6344444444444445
+Sentences,randomForest,"(' AOI Name', 'Text ID', 'Difficulty_1')",0.6616666666666666
+Sentences,randomForest,"(' AOI Name', 'Text ID', 'Difficulty_2')",0.6633333333333334
+Sentences,randomForest,"(' AOI Name', 'Text ID', 'Difficulty_2', 'Difficulty_1')",0.6533333333333333
+Sentences,randomForest,"(' AOI Name',)",0.6277777777777779
+Sentences,randomForest,"('Difficulty_1',)",0.6061111111111112
+Sentences,randomForest,"('Difficulty_2', 'Difficulty_1')",0.6261111111111112
+Sentences,randomForest,"('Difficulty_2',)",0.6111111111111112
+Sentences,randomForest,"('Text ID', 'Difficulty_1')",0.6150000000000001
+Sentences,randomForest,"('Text ID', 'Difficulty_2')",0.6233333333333334
+Sentences,randomForest,"('Text ID', 'Difficulty_2', 'Difficulty_1')",0.6422222222222222
+Sentences,randomForest,"('Text ID',)",0.6088888888888888
+Sentences,randomForest,(),0.6072222222222222
+Title_para,logistic,"(' AOI Name', 'Answer')",0.5038888888888888
+Title_para,logistic,"(' AOI Name', 'Answer', 'Difficulty_1')",0.5038888888888889
+Title_para,logistic,"(' AOI Name', 'Difficulty_1')",0.4855555555555555
+Title_para,logistic,"(' AOI Name', 'Paragraph_Number')",0.4911111111111111
+Title_para,logistic,"(' AOI Name', 'Paragraph_Number', 'Answer')",0.5077777777777778
+Title_para,logistic,"(' AOI Name', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.5133333333333333
+Title_para,logistic,"(' AOI Name', 'Paragraph_Number', 'Difficulty_1')",0.4911111111111111
+Title_para,logistic,"(' AOI Name', 'Text ID')",0.5016666666666667
+Title_para,logistic,"(' AOI Name', 'Text ID', 'Answer')",0.49333333333333335
+Title_para,logistic,"(' AOI Name', 'Text ID', 'Answer', 'Difficulty_1')",0.49333333333333335
+Title_para,logistic,"(' AOI Name', 'Text ID', 'Difficulty_1')",0.5188888888888888
+Title_para,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number')",0.49111111111111105
+Title_para,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer')",0.5105555555555555
+Title_para,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.5183333333333334
+Title_para,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Difficulty_1')",0.4827777777777777
+Title_para,logistic,"(' AOI Name',)",0.4816666666666667
+Title_para,logistic,"('Answer', 'Difficulty_1')",0.48666666666666664
+Title_para,logistic,"('Answer',)",0.5111111111111111
+Title_para,logistic,"('Difficulty_1',)",0.49666666666666665
+Title_para,logistic,"('Paragraph_Number', 'Answer')",0.49166666666666664
+Title_para,logistic,"('Paragraph_Number', 'Answer', 'Difficulty_1')",0.5016666666666666
+Title_para,logistic,"('Paragraph_Number', 'Difficulty_1')",0.49000000000000005
+Title_para,logistic,"('Paragraph_Number',)",0.4911111111111111
+Title_para,logistic,"('Text ID', 'Answer')",0.48500000000000004
+Title_para,logistic,"('Text ID', 'Answer', 'Difficulty_1')",0.5066666666666667
+Title_para,logistic,"('Text ID', 'Difficulty_1')",0.4855555555555555
+Title_para,logistic,"('Text ID', 'Paragraph_Number')",0.4833333333333332
+Title_para,logistic,"('Text ID', 'Paragraph_Number', 'Answer')",0.4894444444444445
+Title_para,logistic,"('Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.49722222222222223
+Title_para,logistic,"('Text ID', 'Paragraph_Number', 'Difficulty_1')",0.49
+Title_para,logistic,"('Text ID',)",0.4855555555555556
+Title_para,logistic,(),0.4838888888888888
+Title_para,randomForest,"(' AOI Name', 'Answer')",0.6305555555555556
+Title_para,randomForest,"(' AOI Name', 'Answer', 'Difficulty_1')",0.6266666666666666
+Title_para,randomForest,"(' AOI Name', 'Difficulty_1')",0.6344444444444446
+Title_para,randomForest,"(' AOI Name', 'Paragraph_Number')",0.6511111111111111
+Title_para,randomForest,"(' AOI Name', 'Paragraph_Number', 'Answer')",0.6622222222222223
+Title_para,randomForest,"(' AOI Name', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.6238888888888888
+Title_para,randomForest,"(' AOI Name', 'Paragraph_Number', 'Difficulty_1')",0.6433333333333333
+Title_para,randomForest,"(' AOI Name', 'Text ID')",0.6555555555555556
+Title_para,randomForest,"(' AOI Name', 'Text ID', 'Answer')",0.6227777777777778
+Title_para,randomForest,"(' AOI Name', 'Text ID', 'Answer', 'Difficulty_1')",0.6255555555555556
+Title_para,randomForest,"(' AOI Name', 'Text ID', 'Difficulty_1')",0.6527777777777778
+Title_para,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number')",0.6483333333333333
+Title_para,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer')",0.6322222222222221
+Title_para,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.6355555555555555
+Title_para,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Difficulty_1')",0.6516666666666665
+Title_para,randomForest,"(' AOI Name',)",0.6605555555555557
+Title_para,randomForest,"('Answer', 'Difficulty_1')",0.6222222222222221
+Title_para,randomForest,"('Answer',)",0.61
+Title_para,randomForest,"('Difficulty_1',)",0.64
+Title_para,randomForest,"('Paragraph_Number', 'Answer')",0.6122222222222223
+Title_para,randomForest,"('Paragraph_Number', 'Answer', 'Difficulty_1')",0.6161111111111112
+Title_para,randomForest,"('Paragraph_Number', 'Difficulty_1')",0.6333333333333333
+Title_para,randomForest,"('Paragraph_Number',)",0.6416666666666666
+Title_para,randomForest,"('Text ID', 'Answer')",0.601111111111111
+Title_para,randomForest,"('Text ID', 'Answer', 'Difficulty_1')",0.6288888888888889
+Title_para,randomForest,"('Text ID', 'Difficulty_1')",0.6266666666666666
+Title_para,randomForest,"('Text ID', 'Paragraph_Number')",0.6533333333333333
+Title_para,randomForest,"('Text ID', 'Paragraph_Number', 'Answer')",0.6172222222222222
+Title_para,randomForest,"('Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.6222222222222222
+Title_para,randomForest,"('Text ID', 'Paragraph_Number', 'Difficulty_1')",0.6555555555555554
+Title_para,randomForest,"('Text ID',)",0.6272222222222222
+Title_para,randomForest,(),0.6444444444444445
+Title_para_questions,logistic,"(' AOI Name', 'Answer')",0.45694444444444443
+Title_para_questions,logistic,"(' AOI Name', 'Answer', 'Difficulty_1')",0.4681944444444444
+Title_para_questions,logistic,"(' AOI Name', 'Answer', 'Difficulty_1', 'Flag')",0.46694444444444444
+Title_para_questions,logistic,"(' AOI Name', 'Answer', 'Flag')",0.4847222222222222
+Title_para_questions,logistic,"(' AOI Name', 'Difficulty_1')",0.48583333333333334
+Title_para_questions,logistic,"(' AOI Name', 'Difficulty_1', 'Flag')",0.5004166666666667
+Title_para_questions,logistic,"(' AOI Name', 'Flag')",0.4838888888888888
+Title_para_questions,logistic,"(' AOI Name', 'Paragraph_Number')",0.47124999999999995
+Title_para_questions,logistic,"(' AOI Name', 'Paragraph_Number', 'Answer')",0.45569444444444446
+Title_para_questions,logistic,"(' AOI Name', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.4618055555555555
+Title_para_questions,logistic,"(' AOI Name', 'Paragraph_Number', 'Answer', 'Difficulty_1', 'Flag')",0.4534722222222222
+Title_para_questions,logistic,"(' AOI Name', 'Paragraph_Number', 'Answer', 'Flag')",0.4569444444444444
+Title_para_questions,logistic,"(' AOI Name', 'Paragraph_Number', 'Difficulty_1')",0.48527777777777775
+Title_para_questions,logistic,"(' AOI Name', 'Paragraph_Number', 'Difficulty_1', 'Flag')",0.4995833333333333
+Title_para_questions,logistic,"(' AOI Name', 'Paragraph_Number', 'Flag')",0.4863888888888889
+Title_para_questions,logistic,"(' AOI Name', 'Text ID')",0.5036111111111111
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Answer')",0.4802777777777778
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Answer', 'Difficulty_1')",0.4684722222222222
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Answer', 'Difficulty_1', 'Flag')",0.4655555555555555
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Answer', 'Flag')",0.4563888888888889
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Difficulty_1')",0.4958333333333333
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Difficulty_1', 'Flag')",0.49263888888888885
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Flag')",0.47986111111111107
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number')",0.48597222222222225
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer')",0.45375000000000004
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.4749999999999999
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1', 'Flag')",0.4693055555555555
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer', 'Flag')",0.46749999999999997
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Difficulty_1')",0.49486111111111103
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Difficulty_1', 'Flag')",0.49916666666666654
+Title_para_questions,logistic,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Flag')",0.47013888888888894
+Title_para_questions,logistic,"(' AOI Name',)",0.47874999999999995
+Title_para_questions,logistic,"('Answer', 'Difficulty_1')",0.4663888888888889
+Title_para_questions,logistic,"('Answer', 'Difficulty_1', 'Flag')",0.46666666666666673
+Title_para_questions,logistic,"('Answer', 'Flag')",0.4565277777777778
+Title_para_questions,logistic,"('Answer',)",0.4609722222222223
+Title_para_questions,logistic,"('Difficulty_1', 'Flag')",0.47708333333333325
+Title_para_questions,logistic,"('Difficulty_1',)",0.4723611111111112
+Title_para_questions,logistic,"('Flag',)",0.48000000000000004
+Title_para_questions,logistic,"('Paragraph_Number', 'Answer')",0.4893055555555555
+Title_para_questions,logistic,"('Paragraph_Number', 'Answer', 'Difficulty_1')",0.47277777777777774
+Title_para_questions,logistic,"('Paragraph_Number', 'Answer', 'Difficulty_1', 'Flag')",0.47736111111111107
+Title_para_questions,logistic,"('Paragraph_Number', 'Answer', 'Flag')",0.47430555555555554
+Title_para_questions,logistic,"('Paragraph_Number', 'Difficulty_1')",0.4893055555555556
+Title_para_questions,logistic,"('Paragraph_Number', 'Difficulty_1', 'Flag')",0.48680555555555555
+Title_para_questions,logistic,"('Paragraph_Number', 'Flag')",0.46305555555555555
+Title_para_questions,logistic,"('Paragraph_Number',)",0.47694444444444445
+Title_para_questions,logistic,"('Text ID', 'Answer')",0.4709722222222223
+Title_para_questions,logistic,"('Text ID', 'Answer', 'Difficulty_1')",0.4702777777777778
+Title_para_questions,logistic,"('Text ID', 'Answer', 'Difficulty_1', 'Flag')",0.4481944444444444
+Title_para_questions,logistic,"('Text ID', 'Answer', 'Flag')",0.4731944444444444
+Title_para_questions,logistic,"('Text ID', 'Difficulty_1')",0.4726388888888889
+Title_para_questions,logistic,"('Text ID', 'Difficulty_1', 'Flag')",0.484861111111111
+Title_para_questions,logistic,"('Text ID', 'Flag')",0.4790277777777778
+Title_para_questions,logistic,"('Text ID', 'Paragraph_Number')",0.49
+Title_para_questions,logistic,"('Text ID', 'Paragraph_Number', 'Answer')",0.4613888888888889
+Title_para_questions,logistic,"('Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.4691666666666667
+Title_para_questions,logistic,"('Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1', 'Flag')",0.4644444444444444
+Title_para_questions,logistic,"('Text ID', 'Paragraph_Number', 'Answer', 'Flag')",0.4573611111111111
+Title_para_questions,logistic,"('Text ID', 'Paragraph_Number', 'Difficulty_1')",0.48847222222222225
+Title_para_questions,logistic,"('Text ID', 'Paragraph_Number', 'Difficulty_1', 'Flag')",0.4804166666666667
+Title_para_questions,logistic,"('Text ID', 'Paragraph_Number', 'Flag')",0.4595833333333333
+Title_para_questions,logistic,"('Text ID',)",0.47375000000000006
+Title_para_questions,logistic,(),0.48625
+Title_para_questions,randomForest,"(' AOI Name', 'Answer')",0.5744444444444444
+Title_para_questions,randomForest,"(' AOI Name', 'Answer', 'Difficulty_1')",0.5534722222222221
+Title_para_questions,randomForest,"(' AOI Name', 'Answer', 'Difficulty_1', 'Flag')",0.561111111111111
+Title_para_questions,randomForest,"(' AOI Name', 'Answer', 'Flag')",0.584861111111111
+Title_para_questions,randomForest,"(' AOI Name', 'Difficulty_1')",0.5780555555555555
+Title_para_questions,randomForest,"(' AOI Name', 'Difficulty_1', 'Flag')",0.5816666666666667
+Title_para_questions,randomForest,"(' AOI Name', 'Flag')",0.5770833333333334
+Title_para_questions,randomForest,"(' AOI Name', 'Paragraph_Number')",0.5922222222222223
+Title_para_questions,randomForest,"(' AOI Name', 'Paragraph_Number', 'Answer')",0.5543055555555556
+Title_para_questions,randomForest,"(' AOI Name', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.5480555555555556
+Title_para_questions,randomForest,"(' AOI Name', 'Paragraph_Number', 'Answer', 'Difficulty_1', 'Flag')",0.5538888888888889
+Title_para_questions,randomForest,"(' AOI Name', 'Paragraph_Number', 'Answer', 'Flag')",0.5672222222222222
+Title_para_questions,randomForest,"(' AOI Name', 'Paragraph_Number', 'Difficulty_1')",0.5945833333333334
+Title_para_questions,randomForest,"(' AOI Name', 'Paragraph_Number', 'Difficulty_1', 'Flag')",0.57125
+Title_para_questions,randomForest,"(' AOI Name', 'Paragraph_Number', 'Flag')",0.6051388888888889
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID')",0.5776388888888889
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Answer')",0.5669444444444444
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Answer', 'Difficulty_1')",0.5690277777777778
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Answer', 'Difficulty_1', 'Flag')",0.5422222222222223
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Answer', 'Flag')",0.5530555555555555
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Difficulty_1')",0.5691666666666667
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Difficulty_1', 'Flag')",0.5830555555555555
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Flag')",0.5645833333333333
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number')",0.5801388888888889
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer')",0.5509722222222222
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.555
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1', 'Flag')",0.5681944444444444
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Answer', 'Flag')",0.535
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Difficulty_1')",0.5804166666666667
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Difficulty_1', 'Flag')",0.5959722222222222
+Title_para_questions,randomForest,"(' AOI Name', 'Text ID', 'Paragraph_Number', 'Flag')",0.5705555555555556
+Title_para_questions,randomForest,"(' AOI Name',)",0.5686111111111111
+Title_para_questions,randomForest,"('Answer', 'Difficulty_1')",0.5508333333333334
+Title_para_questions,randomForest,"('Answer', 'Difficulty_1', 'Flag')",0.5445833333333333
+Title_para_questions,randomForest,"('Answer', 'Flag')",0.5563888888888888
+Title_para_questions,randomForest,"('Answer',)",0.5716666666666668
+Title_para_questions,randomForest,"('Difficulty_1', 'Flag')",0.5591666666666667
+Title_para_questions,randomForest,"('Difficulty_1',)",0.5730555555555555
+Title_para_questions,randomForest,"('Flag',)",0.5727777777777777
+Title_para_questions,randomForest,"('Paragraph_Number', 'Answer')",0.5508333333333333
+Title_para_questions,randomForest,"('Paragraph_Number', 'Answer', 'Difficulty_1')",0.540138888888889
+Title_para_questions,randomForest,"('Paragraph_Number', 'Answer', 'Difficulty_1', 'Flag')",0.5588888888888889
+Title_para_questions,randomForest,"('Paragraph_Number', 'Answer', 'Flag')",0.5570833333333334
+Title_para_questions,randomForest,"('Paragraph_Number', 'Difficulty_1')",0.5693055555555556
+Title_para_questions,randomForest,"('Paragraph_Number', 'Difficulty_1', 'Flag')",0.5865277777777779
+Title_para_questions,randomForest,"('Paragraph_Number', 'Flag')",0.5945833333333332
+Title_para_questions,randomForest,"('Paragraph_Number',)",0.5547222222222222
+Title_para_questions,randomForest,"('Text ID', 'Answer')",0.5552777777777778
+Title_para_questions,randomForest,"('Text ID', 'Answer', 'Difficulty_1')",0.5513888888888889
+Title_para_questions,randomForest,"('Text ID', 'Answer', 'Difficulty_1', 'Flag')",0.5477777777777778
+Title_para_questions,randomForest,"('Text ID', 'Answer', 'Flag')",0.5536111111111112
+Title_para_questions,randomForest,"('Text ID', 'Difficulty_1')",0.5595833333333333
+Title_para_questions,randomForest,"('Text ID', 'Difficulty_1', 'Flag')",0.5663888888888889
+Title_para_questions,randomForest,"('Text ID', 'Flag')",0.5663888888888889
+Title_para_questions,randomForest,"('Text ID', 'Paragraph_Number')",0.57125
+Title_para_questions,randomForest,"('Text ID', 'Paragraph_Number', 'Answer')",0.5331944444444444
+Title_para_questions,randomForest,"('Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1')",0.5254166666666666
+Title_para_questions,randomForest,"('Text ID', 'Paragraph_Number', 'Answer', 'Difficulty_1', 'Flag')",0.5523611111111111
+Title_para_questions,randomForest,"('Text ID', 'Paragraph_Number', 'Answer', 'Flag')",0.5384722222222221
+Title_para_questions,randomForest,"('Text ID', 'Paragraph_Number', 'Difficulty_1')",0.5547222222222222
+Title_para_questions,randomForest,"('Text ID', 'Paragraph_Number', 'Difficulty_1', 'Flag')",0.5847222222222223
+Title_para_questions,randomForest,"('Text ID', 'Paragraph_Number', 'Flag')",0.5534722222222223
+Title_para_questions,randomForest,"('Text ID',)",0.5765277777777778
+Title_para_questions,randomForest,(),0.5704166666666666
